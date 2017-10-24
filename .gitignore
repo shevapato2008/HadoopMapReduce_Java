@@ -6,3 +6,6 @@
 
 # ignore .project
 *.project
+
+# ignore all metadata
+.metadata/*
