@@ -2,4 +2,7 @@
 *.class
 
 # ignore .classpath
-.classpath
+*.classpath
+
+# ignore .project
+*.project
