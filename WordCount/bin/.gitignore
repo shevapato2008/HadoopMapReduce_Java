@@ -1,0 +1,6 @@
+/hadoop-common-2.8.1.jar
+/hadoop-core-1.2.1.jar
+/hadoop-mapreduce-client-core-2.8.1.jar
+/wordCount$IntSumReducer.class
+/wordCount$TokenizerMapper.class
+/wordCount.class
